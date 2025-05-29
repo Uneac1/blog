@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Uneac1</title>
+  
+  
+  <link href="https://y130.icu/atom.xml" rel="self"/>
+  
+  <link href="https://y130.icu/"/>
+  <updated>2025-05-29T01:51:47.539Z</updated>
+  <id>https://y130.icu/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo全配置</title>
+    <link href="https://y130.icu/2025/05/29/hexo/"/>
+    <id>https://y130.icu/2025/05/29/hexo/</id>
+    <published>2025-05-29T01:29:02.000Z</published>
+    <updated>2025-05-29T01:51:47.539Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一键部署："><a href="#一键部署：" class="headerlink" title="一键部署："></a>一键部署：</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br><span class="line"></span><br><span class="line">git config --global user.name &quot;Uneac1&quot;</span><br><span class="line">git config --global user.email &quot;1006849568@qq.com&quot;</span><br><span class="line"></span><br><span class="line">npm install</span><br><span class="line"></span><br><span class="line">eval $(ssh-agent -s)</span><br><span class="line"></span><br><span class="line">ssh-add E:/yil/yy130</span><br><span class="line"></span><br><span class="line">git init</span><br><span class="line">git add .</span><br><span class="line"></span><br><span class="line">git remote add origin git@github.com:Uneac1/repo.git</span><br><span class="line"></span><br><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line"></span><br><span class="line">git commit -m &quot;RGo1&quot;</span><br></pre></td></tr></table></figure><h1 id="本地部署或上传git："><a href="#本地部署或上传git：" class="headerlink" title="本地部署或上传git："></a>本地部署或上传git：</h1><ul><li>刷新 Hexo：</li></ul><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure><ul><li>生成静态文件并部署：</li></ul><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;一键部署：&quot;&gt;&lt;a href=&quot;#一键部署：&quot; class=&quot;headerlink&quot; title=&quot;一键部署：&quot;&gt;&lt;/a&gt;一键部署：&lt;/h1&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gut</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>“纳于大麓 藏之名山”</title>
+    <link href="https://y130.icu/2025/05/28/tt/"/>
+    <id>https://y130.icu/2025/05/28/tt/</id>
+    <published>2025-05-28T08:39:22.733Z</published>
+    <updated>2025-05-29T06:45:16.585Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="纳于大麓，烈风雷雨弗迷"><a href="#纳于大麓，烈风雷雨弗迷" class="headerlink" title="纳于大麓，烈风雷雨弗迷"></a><a href="https://www.gushiwen.cn/guwen/bookv.aspx?id=3082">纳于大麓，烈风雷雨弗迷</a><sub></h1><br/>大致意思是尧为了考验舜，将舜置于山林之中，在烈风雷雨之中舜也没有迷失方向。<br/>大一时看《毛泽东传》，读到当年伟人在湖南读书时期，曾冒着风雨，进入岳麓山，就是为了体验“纳于大麓，烈风雷雨弗迷”的感觉。<br/>当时读到这里时，极大的被青年时期伟人的激情豪迈所震撼，同时也拿这句提醒自己，人生无论风雨，万不能迷失方向，误入歧途。]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;纳于大麓，烈风雷雨弗迷&quot;&gt;&lt;a href=&quot;#纳于大麓，烈风雷雨弗迷&quot; class=&quot;headerlink&quot; title=&quot;纳于大麓，烈风雷雨弗迷&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.gushiwen.cn/guwen/bookv.aspx?id=</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>创建 Hexo 项目</title>
+    <link href="https://y130.icu/2025/05/27/Pages/"/>
+    <id>https://y130.icu/2025/05/27/Pages/</id>
+    <published>2025-05-27T06:19:02.000Z</published>
+    <updated>2025-05-29T01:43:46.191Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="创建-Hexo-项目"><a href="#创建-Hexo-项目" class="headerlink" title="创建 Hexo 项目"></a>创建 Hexo 项目</h1><ol><li>请在命令行中进入到你想创建项目的目录（例如 E:\y1y\），然后执行以下命令：</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo init .</span><br><span class="line">hexo install</span><br></pre></td></tr></table></figure><ol start="2"><li>修改 _config.yml</li></ol><p>打开 Hexo 项目的 _config.yml 文件，进行以下配置：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line"># Site</span><br><span class="line">title: Uneac1</span><br><span class="line">subtitle: &#x27;&#x27;</span><br><span class="line">description: &#x27;&#x27;</span><br><span class="line">keywords:</span><br><span class="line">author: Uneac1</span><br><span class="line">language: zh-CN</span><br><span class="line">timezone: &#x27;Asia/Shanghai&#x27;</span><br><span class="line"></span><br><span class="line"># URL</span><br><span class="line">url: https://y130.icu</span><br><span class="line"></span><br><span class="line"># ... existing code ...</span><br><span class="line"></span><br><span class="line"># Deployment</span><br><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repo: git@github.com:UNEAC1/UNEAC1.github.io.git</span><br><span class="line">  branch: main</span><br></pre></td></tr></table></figure><h1 id="安装-hexo-deployer-git-插件"><a href="#安装-hexo-deployer-git-插件" class="headerlink" title="安装 hexo-deployer-git 插件"></a>安装 hexo-deployer-git 插件</h1><ol><li>在命令行中执行以下命令安装部署插件：</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">cd e:/y1y/x</span><br><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><ol start="2"><li>配置 Git 全局信息</li></ol><p>使用以下命令配置你的 Git 用户信息：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name &quot;Uneac1&quot;</span><br><span class="line">git config --global user.email &quot;1006849568@qq.com&quot;</span><br></pre></td></tr></table></figure><ol start="3"><li>安装 Hexo 所需的依赖</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install</span><br></pre></td></tr></table></figure><ol start="4"><li>启动 SSH 代理</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">eval $(ssh-agent -s)</span><br><span class="line"></span><br><span class="line">ssh-add E:/yil/yy130</span><br></pre></td></tr></table></figure><ol start="5"><li>测试连接</li></ol><ul><li>使用以下命令测试是否可以成功连接 GitHub：</li></ul><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure><ul><li>如果一切设置正确，GitHub 会回复：</li></ul><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Hi your_username! You&#x27;ve successfully authenticated, but GitHub does not provide shell access.</span><br></pre></td></tr></table></figure><h1 id="生成-public"><a href="#生成-public" class="headerlink" title="生成 public"></a>生成 public</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br></pre></td></tr></table></figure><ol><li>初始化git仓库：</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git init</span><br><span class="line">git add .</span><br></pre></td></tr></table></figure><ol start="2"><li>链接到远程仓库：</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git remote add origin git@github.com:Uneac1/repo.git</span><br></pre></td></tr></table></figure><ol start="3"><li>提交git：</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git commit -m &quot;LOL1&quot;</span><br></pre></td></tr></table></figure><ol start="4"><li>推送：</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git push -u origin main</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><ol start="5"><li>创建并生成main：</li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git checkout -b main</span><br></pre></td></tr></table></figure><h1 id="刷新-Hexo"><a href="#刷新-Hexo" class="headerlink" title="刷新 Hexo"></a>刷新 Hexo</h1><ul><li>如果你修改了主题的样式，别忘了刷新 Hexo：</li></ul><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure><ul><li>生成静态文件并部署：</li></ul><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><h1 id="关于图片"><a href="#关于图片" class="headerlink" title="关于图片"></a>关于图片</h1><ul><li>使用本地图片</li></ul><p>将图片保存到 Hexo 项目的 source&#x2F;images 文件夹中，并使用相对路径来引用它。例如，假设你将图片命名为 logo.png，你可以这样引用：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![Hexo Logo](/images/logo.png)</span><br></pre></td></tr></table></figure><ul><li>使用网络图片</li></ul><p>如果你希望使用外部 URL 的图片，确保 URL 地址有效并且可以访问。例如：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![Hexo Logo](https://hexo.io/images/logo.png)</span><br></pre></td></tr></table></figure><p>如果仍然无法加载，建议检查网络连接或者确保图片的 URL 地址正确。你也可以尝试将图片下载到本地并上传到博客的图片目录。</p><ul><li>设置封面图片</li></ul><p>在 Hexo 中设置封面图片，可以通过修改配置文件或在文章的 Front Matter 中指定封面图片。以下是几种常见的设置封面图片的方法：</p><ul><li>在 _config.yml 文件中设置封面</li></ul><p>如果你想为整个网站设置默认的封面图片，可以在 Hexo 的 _config.yml 文件中添加一行代码：</p><p>这是主题设置的部分，可能会有所不同，具体取决于你的主题</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">cover:</span><br><span class="line">  enable: true</span><br><span class="line">  image: /images/cover.jpg</span><br></pre></td></tr></table></figure><p>确保图片已经放在 source&#x2F;images 文件夹下，或者直接使用外部 URL。</p><ul><li>在文章 Front Matter 中设置封面</li></ul><p>如果你想为某篇文章单独设置封面图片，可以在该文章的 Front Matter（文章头部元数据）中添加封面图片的路径。示例如下：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">title: 我的文章标题</span><br><span class="line">date: 2025-05-27</span><br><span class="line">cover: /images/cover.jpg</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;创建-Hexo-项目&quot;&gt;&lt;a href=&quot;#创建-Hexo-项目&quot; class=&quot;headerlink&quot; title=&quot;创建 Hexo 项目&quot;&gt;&lt;/a&gt;创建 Hexo 项目&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;请在命令行中进入到你想创建项目的目录（例如 E:&#92;y1y&#92;），然</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Test Test</title>
+    <link href="https://y130.icu/2025/05/27/Test/"/>
+    <id>https://y130.icu/2025/05/27/Test/</id>
+    <published>2025-05-27T06:19:02.000Z</published>
+    <updated>2025-05-28T06:05:54.934Z</updated>
+    
+    <content type="html"><![CDATA[<hr><h2 id="title-测试文章2025-05-27-06-00-00tags-测试-Hexocategories-开发"><a href="#title-测试文章2025-05-27-06-00-00tags-测试-Hexocategories-开发" class="headerlink" title="title: 测试文章2025-05-27 06:00:00tags:  - 测试  - Hexocategories:  - 开发"></a>title: 测试文章<br>2025-05-27 06:00:00<br>tags:<br>  - 测试<br>  - Hexo<br>categories:<br>  - 开发</h2><h1 id="这是一个测试文章"><a href="#这是一个测试文章" class="headerlink" title="这是一个测试文章"></a>这是一个测试文章</h1><p>欢迎来到我的 Hexo 博客！这篇文章主要用于测试 Hexo 的文章发布功能。以下是一些常见的 Markdown 语法示例：</p><h2 id="1-加粗和斜体"><a href="#1-加粗和斜体" class="headerlink" title="1. 加粗和斜体"></a>1. 加粗和斜体</h2><ul><li><strong>加粗</strong>文本             使用 <code>**加粗**</code> 或 <code>__加粗__</code>。</li><li><em>斜体</em>文本                使用 <code>*斜体*</code> 或 <code>_斜体_</code>。</li></ul><h2 id="2-无序列表"><a href="#2-无序列表" class="headerlink" title="2. 无序列表"></a>2. 无序列表</h2><ul><li>项目一</li><li>项目二</li><li>项目三</li></ul><h2 id="3-有序列表"><a href="#3-有序列表" class="headerlink" title="3. 有序列表"></a>3. 有序列表</h2><ol><li>第一项</li><li>第二项</li><li>第三项</li></ol><h2 id="4-图片"><a href="#4-图片" class="headerlink" title="4. 图片"></a>4. 图片</h2><p>这是一个图片示例：</p><p><img src="https://img.picui.cn/free/2025/05/27/68355bc670a02.jpg" alt="灵感菇"></p><h2 id="5-链接"><a href="#5-链接" class="headerlink" title="5. 链接"></a>5. 链接</h2><p>点击 <a href="https://hexo.io/">Hexo 官方网站</a> 访问更多信息。</p><h2 id="6-代码块"><a href="#6-代码块" class="headerlink" title="6. 代码块"></a>6. 代码块</h2><p>这是一个代码块示例：</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"><span class="string">``</span><span class="string">`yaml</span></span><br><span class="line"><span class="string">highlight:</span></span><br><span class="line"><span class="string">  enable: true</span></span><br><span class="line"><span class="string">  line_number: false</span></span><br><span class="line"><span class="string">  tab_replace: &#x27;&#x27;</span></span><br><span class="line"><span class="string">  auto_detect: true</span></span><br><span class="line"><span class="string">  prune_html: false</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">### Deploy to remote sites</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">`</span><span class="string">``</span> bash</span><br><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;h2 id=&quot;title-测试文章2025-05-27-06-00-00tags-测试-Hexocategories-开发&quot;&gt;&lt;a href=&quot;#title-测试文章2025-05-27-06-00-00tags-测试-Hexocategories-开发&quot; class</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://y130.icu/2025/05/27/hello-world/"/>
+    <id>https://y130.icu/2025/05/27/hello-world/</id>
+    <published>2025-05-27T05:46:34.311Z</published>
+    <updated>2025-05-28T02:29:53.476Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
