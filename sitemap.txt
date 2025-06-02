@@ -1,9 +1,15 @@
-https://y130.icu/2025/06/01/weight/
-https://y130.icu/2025/06/01/life/
 https://y130.icu/2025/05/29/hexo/
+https://y130.icu/2025/05/27/Pages/
+https://y130.icu/2025/05/27/Test/
+https://y130.icu/2025/06/02/Pg%EF%BD%9EPlo/
+https://y130.icu/2025/06/01/weight/
+https://y130.icu/categories/index.html
+https://y130.icu/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8.html
+https://y130.icu/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html
+https://y130.icu/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.html
+https://y130.icu/2025/06/01/life/
 https://y130.icu/2025/05/31/PaleBlueDot/
 https://y130.icu/2025/05/27/hello-world/
-https://y130.icu/2025/05/27/Test/
 https://y130.icu/tags/index.html
 https://y130.icu/equipment/index.html
 https://y130.icu/essay/index.html
@@ -15,6 +21,6 @@ https://y130.icu/json/music.json
 https://y130.icu/music/index.html
 https://y130.icu/about/index.html
 https://y130.icu/2025/05/28/tt/
-https://y130.icu/categories/index.html
-https://y130.icu/2025/05/27/Pages/
 https://y130.icu/
+https://y130.icu/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/
+https://y130.icu/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/
