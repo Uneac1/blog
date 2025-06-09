@@ -1,5 +1,6 @@
 https://blog.y130.icu/2025/05/27/TestTest/
-https://blog.y130.icu/2025/06/07/field/
+https://blog.y130.icu/2023/12/15/%E8%99%9E%E4%B9%A6%C2%B7%E8%88%9C%E5%85%B8/
+https://blog.y130.icu/2024/05/25/hello-world/
 https://blog.y130.icu/2021/07/12/replace/
 https://blog.y130.icu/2025/06/03/libai/
 https://blog.y130.icu/2022/10/28/dragon/
@@ -16,7 +17,6 @@ https://blog.y130.icu/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91.html
 https://blog.y130.icu/categories/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B6%AF.html
 https://blog.y130.icu/2025/06/01/life/
 https://blog.y130.icu/2025/05/31/PaleBlueDot/
-https://blog.y130.icu/2025/06/07/hello-world/
 https://blog.y130.icu/tags/index.html
 https://blog.y130.icu/equipment/index.html
 https://blog.y130.icu/essay/index.html
@@ -27,7 +27,6 @@ https://blog.y130.icu/fcircle/index.html
 https://blog.y130.icu/json/music.json
 https://blog.y130.icu/music/index.html
 https://blog.y130.icu/about/index.html
-https://blog.y130.icu/2025/06/07/%E8%99%9E%E4%B9%A6%C2%B7%E8%88%9C%E5%85%B8/
 https://blog.y130.icu/
 https://blog.y130.icu/tags/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/
 https://blog.y130.icu/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/

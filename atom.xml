@@ -6,7 +6,7 @@
   <link href="https://blog.y130.icu/atom.xml" rel="self"/>
   
   <link href="https://blog.y130.icu/"/>
-  <updated>2025-06-07T09:04:00.046Z</updated>
+  <updated>2025-06-04T03:59:37.708Z</updated>
   <id>https://blog.y130.icu/</id>
   
   <author>
@@ -15,69 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>域</title>
-    <link href="https://blog.y130.icu/2025/06/07/field/"/>
-    <id>https://blog.y130.icu/2025/06/07/field/</id>
-    <published>2025-06-07T09:13:02.000Z</published>
-    <updated>2025-06-07T09:04:00.046Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="oneself.y130.icu">oneself</a></p><p><a href="nav.y130.icu">nav</a></p><p><a href="web.y130.icu">web</a></p><p><a href="blog.y130.icu">blog</a></p><p><a href="home.y130.icu">home</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;oneself.y130.icu&quot;&gt;oneself&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;nav.y130.icu&quot;&gt;nav&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;web.y130.icu&quot;&gt;web&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;blog.y</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>“纳于大麓 藏之名山”</title>
-    <link href="https://blog.y130.icu/2025/06/07/%E8%99%9E%E4%B9%A6%C2%B7%E8%88%9C%E5%85%B8/"/>
-    <id>https://blog.y130.icu/2025/06/07/%E8%99%9E%E4%B9%A6%C2%B7%E8%88%9C%E5%85%B8/</id>
-    <published>2025-06-07T08:42:41.318Z</published>
-    <updated>2025-05-29T06:45:16.585Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="纳于大麓，烈风雷雨弗迷"><a href="#纳于大麓，烈风雷雨弗迷" class="headerlink" title="纳于大麓，烈风雷雨弗迷"></a><a href="https://www.gushiwen.cn/guwen/bookv.aspx?id=3082">纳于大麓，烈风雷雨弗迷</a><sub></h1><br/>大致意思是尧为了考验舜，将舜置于山林之中，在烈风雷雨之中舜也没有迷失方向。<br/>大一时看《毛泽东传》，读到当年伟人在湖南读书时期，曾冒着风雨，进入岳麓山，就是为了体验“纳于大麓，烈风雷雨弗迷”的感觉。<br/>当时读到这里时，极大的被青年时期伟人的激情豪迈所震撼，同时也拿这句提醒自己，人生无论风雨，万不能迷失方向，误入歧途。]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;纳于大麓，烈风雷雨弗迷&quot;&gt;&lt;a href=&quot;#纳于大麓，烈风雷雨弗迷&quot; class=&quot;headerlink&quot; title=&quot;纳于大麓，烈风雷雨弗迷&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.gushiwen.cn/guwen/bookv.aspx?id=</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://blog.y130.icu/2025/06/07/hello-world/"/>
-    <id>https://blog.y130.icu/2025/06/07/hello-world/</id>
-    <published>2025-06-07T08:42:41.132Z</published>
-    <updated>2025-05-31T08:44:09.077Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>李白</title>
@@ -212,7 +149,7 @@
     <link href="https://blog.y130.icu/2025/05/27/TestTest/"/>
     <id>https://blog.y130.icu/2025/05/27/TestTest/</id>
     <published>2025-05-27T06:19:02.000Z</published>
-    <updated>2025-06-09T01:23:41.039Z</updated>
+    <updated>2025-06-09T02:13:39.792Z</updated>
     
     <content type="html"><![CDATA[<h1 id="一键部署："><a href="#一键部署：" class="headerlink" title="一键部署："></a>一键部署：</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line">cd e:/y1y/x</span><br><span class="line"></span><br><span class="line">npm install hexo-deployer-git --save</span><br><span class="line"></span><br><span class="line">git config --global user.name &quot;Uneac1&quot;</span><br><span class="line">git config --global user.email &quot;1006849568@qq.com&quot;</span><br><span class="line"></span><br><span class="line">npm install</span><br><span class="line"></span><br><span class="line">eval $(ssh-agent -s)</span><br><span class="line"></span><br><span class="line">ssh-add E:/yil/yy130</span><br><span class="line"></span><br><span class="line">git init</span><br><span class="line">git add .</span><br><span class="line"></span><br><span class="line">git remote add origin https://github.com/Uneac1/blog.git</span><br><span class="line"></span><br><span class="line">git remote add origin git@github.com:Uneac1/blog.git</span><br><span class="line"></span><br><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line"></span><br><span class="line">git commit -m &quot;RGo1&quot;</span><br></pre></td></tr></table></figure><h1 id="本地部署或上传git："><a href="#本地部署或上传git：" class="headerlink" title="本地部署或上传git："></a>本地部署或上传git：</h1><ul><li>刷新 Hexo：</li></ul><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo g</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure><ul><li>生成静态文件并部署：</li></ul><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><p>Python简易服务器</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">python -m http.server</span><br></pre></td></tr></table></figure><h1 id="以下为测试"><a href="#以下为测试" class="headerlink" title="以下为测试"></a>以下为测试</h1><p>欢迎来到我的 Hexo 博客！这篇文章主要用于测试 Hexo 的文章发布功能。以下是一些常见的 Markdown 语法示例：</p><h2 id="1-加粗和斜体"><a href="#1-加粗和斜体" class="headerlink" title="1. 加粗和斜体"></a>1. 加粗和斜体</h2><ul><li><strong>加粗</strong>文本             使用 <code>**加粗**</code> 或 <code>__加粗__</code>。</li><li><em>斜体</em>文本                使用 <code>*斜体*</code> 或 <code>_斜体_</code>。</li></ul><h2 id="2-无序列表"><a href="#2-无序列表" class="headerlink" title="2. 无序列表"></a>2. 无序列表</h2><ul><li>项目一</li><li>项目二</li><li>项目三</li></ul><h2 id="3-有序列表"><a href="#3-有序列表" class="headerlink" title="3. 有序列表"></a>3. 有序列表</h2><ol><li>第一项</li><li>第二项</li><li>第三项</li></ol><h2 id="4-图片"><a href="#4-图片" class="headerlink" title="4. 图片"></a>4. 图片</h2><p>这是一个图片示例：</p><p><img src="https://img.picui.cn/free/2025/05/27/68355bc670a02.jpg" alt="灵感菇"></p><h2 id="5-链接"><a href="#5-链接" class="headerlink" title="5. 链接"></a>5. 链接</h2><p>点击 <a href="https://hexo.io/">Hexo 官方网站</a> 访问更多信息。</p><h2 id="6-代码块"><a href="#6-代码块" class="headerlink" title="6. 代码块"></a>6. 代码块</h2><p>这是一个代码块示例：</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"><span class="string">``</span><span class="string">`yaml</span></span><br><span class="line"><span class="string">highlight:</span></span><br><span class="line"><span class="string">  enable: true</span></span><br><span class="line"><span class="string">  line_number: false</span></span><br><span class="line"><span class="string">  tab_replace: &#x27;&#x27;</span></span><br><span class="line"><span class="string">  auto_detect: true</span></span><br><span class="line"><span class="string">  prune_html: false</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">### Deploy to remote sites</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">`</span><span class="string">``</span> bash</span><br><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -252,6 +189,26 @@
   </entry>
   
   <entry>
+    <title>Hello World</title>
+    <link href="https://blog.y130.icu/2024/05/25/hello-world/"/>
+    <id>https://blog.y130.icu/2024/05/25/hello-world/</id>
+    <published>2024-05-25T07:30:02.000Z</published>
+    <updated>2025-06-09T02:12:45.463Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>记忆与印象</title>
     <link href="https://blog.y130.icu/2024/05/08/%E8%AE%B0%E5%BF%86%E4%B8%8E%E5%8D%B0%E8%B1%A1/"/>
     <id>https://blog.y130.icu/2024/05/08/%E8%AE%B0%E5%BF%86%E4%B8%8E%E5%8D%B0%E8%B1%A1/</id>
@@ -264,6 +221,26 @@
       
       
     <summary type="html">&lt;h3 id=&quot;现在我常有这样的感觉：死神就坐在门外的过道里，坐在幽暗处，凡人看不到的地方，一夜一夜耐心地等我。不知什么时候它就会站起来，对我说：嘿，走吧。我想那必是不由分说。不管是什么时候，我想我大概仍会觉得有些仓促，但不会犹豫，不会拖延。&quot;&gt;&lt;a href=&quot;#现在我常有这样</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>“纳于大麓 藏之名山”</title>
+    <link href="https://blog.y130.icu/2023/12/15/%E8%99%9E%E4%B9%A6%C2%B7%E8%88%9C%E5%85%B8/"/>
+    <id>https://blog.y130.icu/2023/12/15/%E8%99%9E%E4%B9%A6%C2%B7%E8%88%9C%E5%85%B8/</id>
+    <published>2023-12-14T16:09:02.000Z</published>
+    <updated>2025-06-09T02:13:32.576Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="纳于大麓，烈风雷雨弗迷"><a href="#纳于大麓，烈风雷雨弗迷" class="headerlink" title="纳于大麓，烈风雷雨弗迷"></a><a href="https://www.gushiwen.cn/guwen/bookv.aspx?id=3082">纳于大麓，烈风雷雨弗迷</a><sub></h1><br/>大致意思是尧为了考验舜，将舜置于山林之中，在烈风雷雨之中舜也没有迷失方向。<br/>大一时看《毛泽东传》，读到当年伟人在湖南读书时期，曾冒着风雨，进入岳麓山，就是为了体验“纳于大麓，烈风雷雨弗迷”的感觉。<br/>当时读到这里时，极大的被青年时期伟人的激情豪迈所震撼，同时也拿这句提醒自己，人生无论风雨，万不能迷失方向，误入歧途。]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;纳于大麓，烈风雷雨弗迷&quot;&gt;&lt;a href=&quot;#纳于大麓，烈风雷雨弗迷&quot; class=&quot;headerlink&quot; title=&quot;纳于大麓，烈风雷雨弗迷&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.gushiwen.cn/guwen/bookv.aspx?id=</summary>
       
     
     
