@@ -1,3 +1,3 @@
-var posts=["2025/05/27/Pages/","2025/05/27/TestTest/","2025/05/31/PaleBlueDot/","2025/06/02/Pg～Plo/","2022/10/28/dragon/","2025/06/07/field/","2024/05/25/hello-world/","2015/03/19/hifi/","2025/06/03/libai/","2025/06/01/life/","2021/07/12/replace/","2025/06/01/weight/","2024/10/02/烟雨濛濛/","2023/12/15/虞书·舜典/","2024/05/08/记忆与印象/","2025/06/12/随笔/"];function toRandomPost(){
+var posts=["2025/05/27/Pages/","2025/06/02/Pg～Plo/","2025/05/31/PaleBlueDot/","2022/10/28/dragon/","2025/05/27/TestTest/","2025/06/07/field/","2024/05/25/hello-world/","2015/03/19/hifi/","2025/06/03/libai/","2025/06/01/life/","2021/07/12/replace/","2025/06/01/weight/","2024/10/02/烟雨濛濛/","2023/12/15/虞书·舜典/","2024/05/08/记忆与印象/","2025/06/12/随笔/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
